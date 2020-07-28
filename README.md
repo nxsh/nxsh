@@ -10,8 +10,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 
 
 
 ![](https://64.media.tumblr.com/tumblr_m5digiynII1r24ia2o1_400.gifv)
+-->
+
+
+
+![](https://64.media.tumblr.com/tumblr_me24pqLrZc1r6m1qio1_250.gifv)
