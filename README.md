@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
 **nxsh/nxsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://64.media.tumblr.com/76cbf4b0df72d8d93e2a0f154a226e80/tumblr_nf07e8QU9F1qc1jg4o1_400.gifv)
+
+![](https://64.media.tumblr.com/tumblr_m5digiynII1r24ia2o1_400.gifv)
