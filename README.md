@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 
 
 ![](https://64.media.tumblr.com/tumblr_m5digiynII1r24ia2o1_400.gifv)
+![](https://64.media.tumblr.com/2dfc3369827df9b981e111d7fd8fc732/tumblr_mudgvo7TvD1qf5do9o1_400.gifv)
+
 -->
 
-
-
-![](https://64.media.tumblr.com/2dfc3369827df9b981e111d7fd8fc732/tumblr_mudgvo7TvD1qf5do9o1_400.gifv)
+<div align="center">
+	<br>
+	<a href="https://github.com/nxsh/nxsh/blame/master/header.svg">
+		<img src="header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
